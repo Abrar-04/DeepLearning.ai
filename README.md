@@ -1,2 +1,0 @@
-# DeepLearning.ai
-Course 
